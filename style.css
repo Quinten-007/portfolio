@@ -433,6 +433,10 @@ footer {
   .hamburger span {
     display: none;
   }
+  .lang-switch {
+    position: absolute;
+    right: 2vw;
+  }
 }
 
 .hamburger {
